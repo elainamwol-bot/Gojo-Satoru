@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝐸𝐿𝐴𝐼𝑁𝐴𝑀𝑊𝑂𝐿 𝐵𝑌 𝐶𝐻𝑅𝐼𝑆𝑇𝑌
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['917034685001']
+global.premium = ['917034685001']
+global.ownernomer = '917034685001'
+global.ownername = 'ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ'
+global.botname = '𝑬𝑳𝑨𝑰𝑵𝑨𝑴𝑾𝑶𝑳'
+global.footer = 'ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'ꪶ𝗖𝗛𝗥𝗜𝗦𝗧𝗬ꫂ'
+global.author = '🍒ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
