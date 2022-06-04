@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝐸𝐿𝐴𝐼𝑁𝐴𝑀𝑊𝑂𝐿 𝐵𝑌 𝐶𝐻𝑅𝐼𝑆𝑇𝑌
+//                              𝘾𝙃𝙍𝙄𝙎𝙏𝙔 𝙎𝙀𝙍
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -23,7 +23,7 @@ global.owner = ['917034685001']
 global.premium = ['917034685001']
 global.ownernomer = '917034685001'
 global.ownername = 'ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ'
-global.botname = '𝑬𝑳𝑨𝑰𝑵𝑨𝑴𝑾𝑶𝑳'
+global.botname = '𝑪𝑯𝑹𝑰𝑺𝑻𝒀 𝑺𝑬𝑹'
 global.footer = 'ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
